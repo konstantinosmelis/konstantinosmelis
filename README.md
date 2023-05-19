@@ -23,7 +23,7 @@ Also I'm a sailor and scuba diver.
 ### Some Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konstantinosmelis&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=fe428e" alt="konstantinosmelis" />
-    <img src="https://github-readme-stats.vercel.app/api?username=konstantinosmelis&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=fe428e" alt="konstantinosmelis" width="410" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=konstantinosmelis&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=fe428e" alt="konstantinosmelis" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=konstantinosmelis&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=fe428e" alt="konstantinosmelis" width="410" />
 </p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=konstantinosmelis&title=Visitors" alt="konstantinosmelis"/>
