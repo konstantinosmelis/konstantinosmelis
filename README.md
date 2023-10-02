@@ -15,7 +15,7 @@ Also I'm a sailor and scuba diver.
 ### Links
 
 - My Online website : [konstantinos.melissaratos.com](https://konstantinos.melissaratos.com/)
-- Discord : Konstantinos#5861
+- Discord : konstantinosmelis
 - Twitter : [@kmelissaratos](https://twitter.com/kmelissaratos)
 
 ---
