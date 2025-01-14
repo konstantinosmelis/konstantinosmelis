@@ -8,7 +8,7 @@
 
 I'm a Greek guy living in France, working as a software development engineer, and coding in a number of languages but mainly Python and C/C++ (not according to my stats).
 
-Also I'm a sailor, a scuba diver.
+Also I'm a sailor and a scuba diver.
 
 ---
 
