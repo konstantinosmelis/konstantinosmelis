@@ -1,22 +1,20 @@
 <p style="align: center">
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Konstantinos Melissaratos</h1>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Konstantinos</h1>
 </p>
 
 ---
 
 ### What do I do ?
 
-I'm a Greek guy studing in France, coding in a number of languages but mainly Python and C (not according to my stats).
+I'm a Greek guy living in France, working as a software development engineer, and coding in a number of languages but mainly Python and C/C++ (not according to my stats).
 
-Also I'm a sailor and scuba diver.
+Also I'm a sailor, a scuba diver.
 
 ---
 
 ### Links
 
 - My Online website : [konstantinos.melissaratos.com](https://konstantinos.melissaratos.com/)
-- Discord : konstantinosmelis
-- Twitter : [@kmelissaratos](https://twitter.com/kmelissaratos)
 
 ---
 
